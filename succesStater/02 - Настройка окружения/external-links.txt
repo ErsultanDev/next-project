@@ -1,0 +1,15 @@
+
+001 VSCode
+https://code.visualstudio.com
+
+001 Insomnia
+https://insomnia.rest/download
+
+001 NodeJS
+https://nodejs.org/en/
+
+001 NVM
+https://github.com/nvm-sh/nvm
+
+002 -NVM-Windows
+https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows#alternative-version-managers
